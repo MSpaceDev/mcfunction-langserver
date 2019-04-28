@@ -36,7 +36,7 @@
     "dependencies": {
         "js-combinatorics": "^0.5.4",
         "long": "^4.0.0",
-        "mc-nbt-paths": "git+https://github.com/MSpaceDev/mc-nbt-paths.git#item-fixes",
+        "mc-nbt-paths": "git+https://github.com/MrYurihi/mc-nbt-paths.git",
         "minecraft-json-schemas": "git+https://github.com/Levertion/minecraft-json-schemas.git",
         "node-interval-tree": "^1.3.3",
         "request": "^2.88.0",
